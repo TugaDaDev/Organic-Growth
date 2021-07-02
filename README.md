@@ -1,3 +1,5 @@
+DO NOTE THAT I DO NOT WORK FOR DISCORD NOT DO I REPRESENT THEM, I DON'T HOLD RESPONSIBILITY IF YOU GET REJECTED DUE TO OTHER METRICS.
+
 # Organic-Growth
 
 Here are some steps on how to organically grow your Discord Bot.
