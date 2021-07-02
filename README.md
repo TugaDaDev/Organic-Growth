@@ -15,7 +15,7 @@ Here are some steps on how to organically grow your Discord Bot.
 
 Of course it is always up to you whether or not you should advertise, but telling that your bot exists and what it does is not straight up advertising as its just you talking about it, not posting it directly somewhere where random people would add it. 
 
-
+***Because talking about your bot mouth to mouth is better since its more controlled than bot lists since its just you talking about it, bot developers have full control on how to grow bots, if they have tools like logging which prevents their bot from being added to said below ghost, bot farm and such servers.***
 
 To not get manually rejected due to inorganic growth by Discord your bot should not be in ghost servers, bot farms and should be in active use, make sure it doesn't have too many shared ownerships too
 
