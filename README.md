@@ -1,4 +1,4 @@
-DO NOTE THAT I DO NOT WORK FOR DISCORD NOR DO I REPRESENT THEM, I DON'T HOLD RESPONSIBILITY IF YOU GET REJECTED DUE TO OTHER METRICS.
+DO NOTE THAT I DO NOT WORK FOR DISCORD NOR DO I REPRESENT THEM, **I DON'T HOLD RESPONSIBILITY IF YOU GET REJECTED DUE TO OTHER METRICS.**
 
 # Organic-Growth
 
@@ -13,3 +13,18 @@ Here are some steps on how to organically grow your Discord Bot.
 To not get manually rejected due to inorganic growth by Discord your bot should not be in ghost servers, bot farms and should be in active use, make sure it doesn't have too many shared ownerships too
 
 How would you track that, well you can implement logging system in a private channel and log guild joins and leave them if they're sus guilds.
+
+
+
+**What is a bot farm and ghost server?**
+
+A bot farm is server(s) with shit ton of bots in it. 
+
+*ghost server is a server that is there only to "help" you qualify for bot verification, where the bot is not actively used.*
+
+If you got any more questions or something you didn't understand from this github page go ahead and ask anything related to **__bot verification__** in https://discord.gg/discord-developers  people there will help you, make sure to keep on topic in the correct channels. 
+
+
+
+
+***I am not affiliated with Discord or Discord Staff in any way.***
