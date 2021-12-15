@@ -57,3 +57,5 @@ Most importantly, make sure your bot is easy for users and understandable by eve
 
 
 
+**Thanks to the developer of the awesome [Kiko bot](https://top.gg/bot/895136993732878376) for helping me gather some of the tips** *!!*
+
