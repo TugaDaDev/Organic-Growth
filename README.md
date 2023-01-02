@@ -27,7 +27,7 @@ How would you track that, well you can implement logging system in a private cha
 
 **What is a bot farm and ghost server?**
 
-A bot farm is server(s) with shit ton of bots in it. 
+A bot farm is server(s) with dozens of bots in it. 
 
 *ghost server is a server that is there only to "help" you qualify for bot verification, where the bot is not actively used.*
 
@@ -39,13 +39,13 @@ If you got any more questions or something you didn't understand from this githu
 **Some Tips**
 A lot of users, like 50%, will just kick the bot out after trying it out. You **can** lower this percentage by providing the best user experience and, most importantly, an easy setup. This is the most important factor in my opinion.
 
-Have an invite command, like `!invite` . I've noticed a lot of users use such commands to get the invite of the application and add it into their servers.
+Have an invite command, like `/invite` . I've noticed a lot of users use such commands to get the invite of the application and add it into their servers.
 
 Have a clear and brandable bot name because many people will just search for your bot online after seeing it in a server. Having "Mod Boat" as a name is not useful, try to make it unique and original.
 
 Have a website that will get indexed when looking for your bot (Top.gg page is good enough though).
 
-Display your website and the main command (like `!help`) in your bot's status, insert an invite in the main message.
+Display your website and the main command (like `/help`) in your bot's status, insert an invite to it in its `/help` command as a Button or a hyperlink `[text](link)` for example [Bot invite](https://example.com).
 
 You can lock some of your features and require users to vote your bot in order to use them, I've noticed that having a higher vote/positive review counts on [Top.gg](https://top.gg) or other bot listing sites increase your chance of growth. 
 
@@ -57,5 +57,5 @@ Most importantly, make sure your bot is easy for users and understandable by eve
 
 
 
-**Thanks to the developer of the awesome [Kiko bot](https://top.gg/bot/895136993732878376) for helping me gather some of the tips** *!!*
+**Thanks to fellow developers on Discord for helping me gather tips and intelligence on the topic!**
 
